@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/tokune/chinese-time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokune/chinese-time.git"
+  },
   "keywords": [
     "Chinese",
     "Time"
