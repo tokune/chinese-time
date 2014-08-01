@@ -1,0 +1,15 @@
+{
+  "name": "chinese-time",
+  "version": "0.0.1",
+  "description": "Get time in Chinese.",
+  "main": "./lib/chinese-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chinese",
+    "Time"
+  ],
+  "author": "tokune",
+  "license": "ISC"
+}
